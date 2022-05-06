@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>magnifying-glass.png</file>
+        <file>startup-image.webp</file>
+        <file>cursor.png</file>
+    </qresource>
+</RCC>
